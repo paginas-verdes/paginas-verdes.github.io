@@ -41,7 +41,7 @@ _En contruccion, bienvenidas las sugerencias :)_
 
 ### Ropa local y ecologica
 - [La viva vintage](https://www.instagram.com/lavivavintage/)
-- [Vintage affaire]https://www.instagram.com/affairevintage/)
+- [Vintage affaire](https://www.instagram.com/affairevintage/)
 (son rejuntes de ferias de ropa usada)
 
 ## Economia Circular
