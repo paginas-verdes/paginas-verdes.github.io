@@ -5,30 +5,31 @@ _En contruccion, bienvenidas las sugerencias :)_
 
 ## Veganismo
 ### Locales recomendados
-- Parrilla vegana “La Reverde” https://www.instagram.com/lareverdebsas/
-- OM vegan coffee n beer https://www.instagram.com/om.vegancoffee/, https://om-vegan-coffee-shop-beer.myshopify.com/ (Es re barato y es un rejunte de un monton de emprendimientos, son super zero waste tambien, si llevas tu vaso o tu tupper tenes descuento)
-- Futuro Veggie https://www.instagram.com/futuro_veggie/
-- Estilo veggie https://linktr.ee/estiloveggie
-- Artemisia cocina natural https://www.instagram.com/artemisiacocinanatural/
-- Mola https://www.instagram.com/mola.com.ar/
-- Veganius (caro pero venden en envoltorios compostables) https://www.instagram.com/veganius_/
+- Parrilla vegana [_La Reverde_](https://www.instagram.com/lareverdebsas/)
+- [OM vegan](https://www.instagram.com/om.vegancoffee/) coffee n beer (Es re barato y es un rejunte de un monton de emprendimientos, son super zero waste tambien, si llevas tu vaso o tu tupper tenes descuento) - [Sitio web](https://om-vegan-coffee-shop-beer.myshopify.com/)
+- [Futuro Veggie](https://www.instagram.com/futuro_veggie/)
+- [Estilo veggie](https://linktr.ee/estiloveggie)
+- [Artemisia cocina natural](https://www.instagram.com/artemisiacocinanatural/)
+- [Mola](https://www.instagram.com/mola.com.ar/)
+- [Veganius](https://www.instagram.com/veganius_/) (caro pero venden en envoltorios compostables) 
 
 ### Cosmetica Sustentable y vegana
-- Shiri natural https://www.shirinatural.com.ar/ (si juntas los frascos y se los retornas te dan un valecito de descuento)
-- Sentida botanica https://www.sentidabotanica.com/
-- Ruh natural https://www.instagram.com/ruhnatural/
-- Sentido circular (aca hay de todo sustentable, no solo cosmetica) https://www.sentidocircular.com/
+- [Shiri natural](https://www.shirinatural.com.ar/) (si juntas los frascos y se los retornas te dan un valecito de descuento)
+- [Sentida botanica](https://www.sentidabotanica.com/)
+- [Ruh natural](https://www.instagram.com/ruhnatural/)
+- [Sentido circular](https://www.sentidocircular.com/) (aca hay de todo sustentable, no solo cosmetica)
 
 ### Limpieza sustentable:
-- Eco orbol: https://linktr.ee/eco.orbol
+- [Eco orbol](https://linktr.ee/eco.orbol)
 
 ### Veganismo for dummies
 - COMPLETAR
 
 ## Zero Waste
-- https://www.instagram.com/thezerowasteguide/
-- https://www.treehugger.com/tour-of-my-zero-waste-kitchen-5024951
-- Documentos utiles: https://drive.google.com/drive/folders/1WRFt6OERNHgRcsQZMxqcStqRfcPHzxcz
+- [the zero waste guide](https://www.instagram.com/thezerowasteguide/)
+- [tree hugger](https://www.treehugger.com/tour-of-my-zero-waste-kitchen-5024951)
+- [Guía consciente para una vida de menos consumo y descarte](Guía Paso a Paso Ilustrada .pdf)
+- [Listado de Marcas y Referentes Sostenibles en Argentina](Listado de Marcas y Referentes Sostenibles en Argentina.pdf)
 
 ### Comida desechada y dumpster diving
 - COMPLETAR
