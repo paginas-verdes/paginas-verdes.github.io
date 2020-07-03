@@ -28,8 +28,8 @@ _En contruccion, bienvenidas las sugerencias :)_
 ## Zero Waste
 - [the zero waste guide](https://www.instagram.com/thezerowasteguide/)
 - [tree hugger](https://www.treehugger.com/tour-of-my-zero-waste-kitchen-5024951)
-- [Guía consciente para una vida de menos consumo y descarte](Guía Paso a Paso Ilustrada .pdf)
-- [Listado de Marcas y Referentes Sostenibles en Argentina](Listado de Marcas y Referentes Sostenibles en Argentina.pdf)
+- [Guía consciente para una vida de menos consumo y descarte](https://github.com/ecologismo-argentina/ecologismo-argentina.github.io/blob/master/Gu%C3%ADa%20Paso%20a%20Paso%20Ilustrada%20.pdf)
+- [Listado de Marcas y Referentes Sostenibles en Argentina](https://github.com/ecologismo-argentina/ecologismo-argentina.github.io/blob/master/Listado%20de%20Marcas%20y%20Referentes%20Sostenibles%20en%20Argentina.pdf)
 
 ### Comida desechada y dumpster diving
 - COMPLETAR
@@ -37,31 +37,32 @@ _En contruccion, bienvenidas las sugerencias :)_
 ## Productos organicos
 
 ### Locales de comida organica
-- https://www.instagram.com/trabajadoresdelatierra/
+- [Trabajadores de la Tierra](https://www.instagram.com/trabajadoresdelatierra/)
 
 ### Ropa local y ecologica
-- La viva vintage: https://www.instagram.com/lavivavintage/
-- Vintage affaire: https://www.instagram.com/affairevintage/
+- [La viva vintage](https://www.instagram.com/lavivavintage/)
+- [Vintage affaire]https://www.instagram.com/affairevintage/)
 (son rejuntes de ferias de ropa usada)
 
 ## Economia Circular
-- https://www.youtube.com/watch?v=Lc4-2cVKxp0
+- [COTEC](https://www.youtube.com/watch?v=Lc4-2cVKxp0)
 
 ### Compostaje
+- [Naturalquimia Permacultura](https://www.instagram.com/naturalquimiapermacultura/)
 - Composts comunitarios?
-- COMPLETAR
 
 ### Locales de comida que vendan sin envoltorios plasticos
 - COMPLETAR
 
 ### Reciclaje
-- https://www.dondereciclo.org.ar/
-- Gea sustentable: https://www.instagram.com/geasustentable/, https://geasustentable.com.ar/
+- [Donde Reciclo](https://www.dondereciclo.org.ar/)
+- [Gea sustentable](https://geasustentable.com.ar/)
+  - [Instagram](https://www.instagram.com/geasustentable/)
 
 ### Contra la obsolencia programada y el hiperconsumo
-- Reparacion de celus: https://edutin.com/curso-de-reparacion-de-celulares-4308 (en esta plataforma todos los cursos son gratis, solo pagas si queres certificado, y posta que hay DE TODO y muy buenos cursos) 
-- https://www.facebook.com/groups/161187474635099
-- https://www.facebook.com/minimalismoargentina/
+- [Reparacion de celus](https://edutin.com/curso-de-reparacion-de-celulares-4308) (En esta plataforma todos los cursos son gratis, solo pagas si queres certificado, y posta que hay DE TODO y muy buenos cursos) 
+- [Minimalismo Argentina](https://www.facebook.com/minimalismoargentina/)
+  - [Grupo de Facebook](https://www.facebook.com/groups/161187474635099)
 
 ### Recursos para aprender a ser autosuficiente
   - COMPLETAR
@@ -75,30 +76,30 @@ _En contruccion, bienvenidas las sugerencias :)_
 ## Voluntariado
 
 ### Movidas ambientalistas
-- http://unarbolparamivereda.org/ es una ong muy piola donde hay distintas iniciativas, como plantar, apadrinar un arbol, ser voluntario en un vivero, etc. 
+- [Un árbol para mi vereda](http://unarbolparamivereda.org/) es una ong muy piola donde hay distintas iniciativas, como plantar, apadrinar un arbol, ser voluntario en un vivero, etc. 
 
 ### Movidas sociales
-- https://github.com/CoDeArgentina
+- [CoDeArgentina](https://github.com/CoDeArgentina)
 
 ## Activismo
-- https://www.instagram.com/brunoo_rodd/
-- https://www.instagram.com/jovenesporelclimarg/
+- [Brunoo Rodd](https://www.instagram.com/brunoo_rodd/)
+- [Jovenes por el clima](https://www.instagram.com/jovenesporelclimarg/)
+
 ### Activimo Vegano:
-- Animal Libre http://animallibre.org/
-- Voicot https://www.instagram.com/voicot/
+- [Animal Libre](http://animallibre.org/)
+- [Voicot](https://www.instagram.com/voicot/)
 
 ## Energias renovables
-- https://untref.edu.ar/docente/752
+- [Universidad tres de febrero](https://untref.edu.ar/docente/752)
 
 ## Calentamiento global
-- https://www.youtube.com/watch?v=3X-Z0kMfh4M
+- [Video lindo sobre el cambio climatico](https://www.youtube.com/watch?v=3X-Z0kMfh4M)
 
 ## Democracia
-- https://www.youtube.com/watch?v=UoP_mSIHqTY
-- https://www.reddit.com/r/AskHistorians/comments/2v05sw/what_are_the_pros_and_cons_of_athenian_style/
-- https://es.wikipedia.org/wiki/Kibutz
-- https://es.wikipedia.org/wiki/Zapatismo#:~:text=Zapatismo%20es%20un%20t%C3%A9rmino%20empleado,eran%20conocidos%20como%20%22zapatistas%22.
-- https://democracy.earth/
+- [Democracia vs Sistema representativo](https://www.youtube.com/watch?v=UoP_mSIHqTY)
+- [Athenian style democracy](https://www.reddit.com/r/AskHistorians/comments/2v05sw/what_are_the_pros_and_cons_of_athenian_style/)
+- [Kibutz](https://es.wikipedia.org/wiki/Kibutz)
+- [Democracy Earth](https://democracy.earth/)
 
 ## Reclamos y propuestas
 - universal basic income
