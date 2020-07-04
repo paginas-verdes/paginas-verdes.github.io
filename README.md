@@ -60,7 +60,7 @@ _En contruccion, bienvenidas las sugerencias :)_
 - Apps para compartir viajes
   - COMPLETAR
 
-## ~Desechar~
+## ~~Desechar~~
 
 ### Compostaje
 - [Naturalquimia Permacultura](https://www.instagram.com/naturalquimiapermacultura/)
