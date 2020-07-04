@@ -3,8 +3,8 @@ Lista de recursos útiles relacionados al ecologismo en Argentina.
 
 _En contruccion, bienvenidas las sugerencias :)_
 
-
-## [Listado de Marcas y Referentes Sostenibles en Argentina](https://github.com/ecologismo-argentina/ecologismo-argentina.github.io/blob/master/Listado%20de%20Marcas%20y%20Referentes%20Sostenibles%20en%20Argentina.pdf)
+## Otros listados similares
+- [Listado de Marcas y Referentes Sostenibles en Argentina](https://github.com/ecologismo-argentina/ecologismo-argentina.github.io/blob/master/Listado%20de%20Marcas%20y%20Referentes%20Sostenibles%20en%20Argentina.pdf)
 
 ## Comer
 ### Locales recomendados
