@@ -71,8 +71,9 @@ _En contruccion, bienvenidas las sugerencias :)_
 - [Gea sustentable](https://geasustentable.com.ar/)
   - [Instagram](https://www.instagram.com/geasustentable/)
 
-### Obsolencia programada
+### Reparar
 - [Reparacion de celus](https://edutin.com/curso-de-reparacion-de-celulares-4308) (En esta plataforma todos los cursos son gratis, solo pagas si queres certificado, y posta que hay DE TODO y muy buenos cursos) 
+- [Linux para volver rápidas computadoras viejas](https://www.xataka.com/basics/como-instalar-linux-tu-viejo-ordenador-para-darle-segunda-vida)
 
 ## Reducir el hiperconsumo
 - [Minimalismo Argentina](https://www.facebook.com/minimalismoargentina/)
@@ -119,7 +120,7 @@ _En contruccion, bienvenidas las sugerencias :)_
 - Make cars and everything else that consumes fossil fuels run on electricity instead—and use less of it.
 - Deploy high-tech fixes for things that are hard to run on electricity with current technology, like airplanes, and to remove CO2 that’s already in the atmosphere.
 - Reduce emissions from agriculture by using resources, including land, more efficiently.
-- planting trees/plants?
+- Planting trees/plants?
 
 ### Reclamos y propuestas
 - universal basic income
