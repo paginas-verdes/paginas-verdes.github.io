@@ -21,9 +21,18 @@ _En contruccion, bienvenidas las sugerencias :)_
 
 ### Limpieza sustentable:
 - [Eco orbol](https://linktr.ee/eco.orbol)
+- [Detergente para lavarropas casero](https://www.youtube.com/watch?v=CS9xA-eiOWs)
+- [Esencia/Aromatizante de mandarina](https://www.youtube.com/watch?v=dRVZUEUj08k): La técnica se puede aplicar a cualquier otra fruta o planta aromática
 
 ### Veganismo for dummies
-- COMPLETAR
+- [Queso vegano](https://danzadefogones.com/queso-vegano/)
+- [Seitan casero - Comida con altas proteinas](https://www.youtube.com/watch?v=iMeVxppq30U)
+- [Aceite saborizado](https://www.youtube.com/watch?v=01picOi4ZAk)
+- Resumenes dieteticos hechos por Harvard Medical School
+  - [Healthy eating pyramid](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2012/09/Healthy-Eating-Pyramid-handout.pdf)
+  - [Healthy eating plate](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2012/09/HEPJan2015.jpg)
+
+![](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2012/09/HEPJan2015.jpg)
 
 ## Zero Waste
 - [the zero waste guide](https://www.instagram.com/thezerowasteguide/)
