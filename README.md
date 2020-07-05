@@ -1,5 +1,5 @@
 # Ecologismo Argentina
-Lista de recursos útiles relacionados al ecologismo en Argentina. 
+Lista de recursos que me resultaron útiles o interesantes relacionados al ecologismo en Argentina.
 
 _En contruccion, bienvenidas las sugerencias :)_
 
@@ -31,6 +31,10 @@ _En contruccion, bienvenidas las sugerencias :)_
   - [Healthy eating plate](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2012/09/HEPJan2015.jpg)
 
 ![](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2012/09/HEPJan2015.jpg)
+
+### Ayuno
+- [¿Qué pasa en tu cuerpo si ayunas?](https://youtu.be/r64LrW36Jb8)
+- [Intermittent fasting by Gwern](https://www.gwern.net/intermittent-fasting)
 
 # Vestir
 ### Ropa local y ecologica
