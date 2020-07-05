@@ -1,5 +1,5 @@
 # Ecologismo Argentina
-Lista de recursos que me resultaron útiles o interesantes relacionados al ecologismo en Argentina.
+Lista de recursos útiles o interesantes relacionados al ecologismo en Argentina.
 
 _En contruccion, bienvenidas las sugerencias :)_
 
