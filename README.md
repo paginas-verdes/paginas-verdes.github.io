@@ -36,7 +36,7 @@ _En contruccion, bienvenidas las sugerencias :)_
 - [¿Qué pasa en tu cuerpo si ayunas?](https://youtu.be/r64LrW36Jb8)
 - [Intermittent fasting by Gwern](https://www.gwern.net/intermittent-fasting)
 
-# Vestir
+## Vestir
 ### Ropa local y ecologica
 - [La viva vintage](https://www.instagram.com/lavivavintage/)
 - [Vintage affaire](https://www.instagram.com/affairevintage/)
@@ -47,6 +47,7 @@ _En contruccion, bienvenidas las sugerencias :)_
 - [Sentida botanica](https://www.sentidabotanica.com/)
 - [Ruh natural](https://www.instagram.com/ruhnatural/)
 - [Sentido circular](https://www.sentidocircular.com/) (aca hay de todo sustentable, no solo cosmetica)
+- [Trabajadores de la Tierra](https://www.instagram.com/trabajadoresdelatierra/)
 
 ## Limpiar
 ### Locales de productos de limpieza ecologicos
