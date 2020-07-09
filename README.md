@@ -23,9 +23,24 @@ _En contruccion, bienvenidas las sugerencias :)_
 - COMPLETAR
 
 ### Comida Vegana for dummies
+- [Samurai de Ensaladas](https://www.instagram.com/samuraideensaladas/)
+
+#### Desayuno/Merienda
+- [Leche de almendras](https://www.recetasdeescandalo.com/como-hacer-leche-de-almendras-casera-receta-de-leche-vegetal/)
+- [Pudin de chia](https://deliciaskitchen.com/pudin-de-chia-basico/)
 - [Queso vegano](https://danzadefogones.com/queso-vegano/)
+- [Hummus](https://cookpad.com/ar/recetas/10995782-hummus-de-garbanzos-economico)
+- [Guacamole](https://alicante.com.ar/35-receta-guacamole-sin-tacc)
+- Granola
+- Frutas
+- Licuados de frutas
+
+#### Almuerzo cena
 - [Seitan casero - Comida con altas proteinas](https://www.youtube.com/watch?v=iMeVxppq30U)
 - [Aceite saborizado](https://www.youtube.com/watch?v=01picOi4ZAk)
+- COMPLETAR
+
+
 - Resumenes dieteticos hechos por Harvard Medical School
   - [Healthy eating pyramid](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2012/09/Healthy-Eating-Pyramid-handout.pdf)
   - [Healthy eating plate](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2012/09/HEPJan2015.jpg)
