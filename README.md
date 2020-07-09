@@ -35,7 +35,7 @@ _En contruccion, bienvenidas las sugerencias :)_
 - Frutas
 - Licuados de frutas
 
-#### Almuerzo cena
+#### Almuerzo/Cena
 - [Seitan casero - Comida con altas proteinas](https://www.youtube.com/watch?v=iMeVxppq30U)
 - [Aceite saborizado](https://www.youtube.com/watch?v=01picOi4ZAk)
 - COMPLETAR
