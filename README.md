@@ -65,6 +65,8 @@ _En contruccion, bienvenidas las sugerencias :)_
 - [Trabajadores de la Tierra](https://www.instagram.com/trabajadoresdelatierra/)
 
 ## Limpiar
+Las esponjas de plastico se pueden reemplazar por altenativas orgánicas como la [luffa](https://es.wikipedia.org/wiki/Luffa), detergentes y demás productos pueden hacerse facilmente en casa con jabones veganos, vinagre, bicarbonato de sodio y esencias aromatizantes.
+
 ### Locales de productos de limpieza ecologicos
 - [Eco orbol](https://linktr.ee/eco.orbol)
 
