@@ -1,0 +1,109 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: #C0FFB2;
+  margin: 2em;
+  padding: 2em;
+  font-size: 18px;
+}
+
+.btn,
+p.itemPara,
+p {
+  padding: 12px 16px;
+  margin: 2px;
+  font-size: 18px;
+}
+
+h1 {
+   // text-shadow: 4px 2px black;
+   // color: #D6F7A3;
+    letter-spacing: .5em;
+}
+
+h1,
+p {
+  padding: 12px 3px;
+  margin: 2px;
+}
+
+a,
+p {
+  color: black;
+  line-height: 22px;
+}
+
+a.itemLink,
+p.itemPara {
+  float: left;
+  display: inline-block;
+  border-radius: 12px;
+  background-color: #B7E3CC;
+}
+
+a.itemLink{
+  font-weight:bold;
+}
+
+.filterDiv,
+.show {
+  float: left;
+  width: 100%;
+}
+
+.filterDiv,
+.show,
+.btn {
+  margin: 2px 2px;
+}
+
+.filterDiv {
+  display: none;
+}
+
+.show {
+  display: inline-block;
+}
+
+#myBtnContainer {
+  margin-bottom: 20px;
+}
+
+.container {
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+/* Style the buttons */
+.btn {
+font-family: "Courier new", Courier, monospace;
+  border-radius: 12px;
+  background-color: #7D82B8;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #7B4B94;
+    color: white;
+}
+
+.btn.active {
+  background-color: #7D82B8;
+  color: white;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+}
+
+.foot-right {
+    position: absolute;
+    right:1em;
+    bottom:0;
+
+}
