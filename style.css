@@ -1,8 +1,8 @@
 /* CSS files add styling rules to your content */
 
 body {
-   font-family: "Courier New", Courier, monospace;
-   background-color: #C0FFB2;
+  font-family: "Courier New", Courier, monospace;
+  background-color: #C0FFB2;
   margin: 2em;
   padding: 2em;
   font-size: 18px;
@@ -96,3 +96,14 @@ font-family: "Courier new", Courier, monospace;
   color: white;
 }
 
+footer {
+    display: flex;
+    flex-direction: column;
+}
+
+.foot-right {
+    position: absolute;
+    right:1em;
+    bottom:0;
+
+}
