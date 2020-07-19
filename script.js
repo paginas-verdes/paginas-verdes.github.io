@@ -80,6 +80,7 @@ function addElement(columnName, person, url, description) {
     link.appendChild(linkContent);
     link.title = person;
     link.href = url;
+    link.target="_blank";
     link.className = "itemLink";
 
     let para = document.createElement("p");
