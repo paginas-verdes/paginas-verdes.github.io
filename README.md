@@ -2,7 +2,7 @@
 
 Sitio creado para interesades en saber sobre prácticas más mundo-amigables, informarse o simplemente llamar a un delivery que haga comida más armónica para vos y tu entorno.
 
-Pensado como herramienta de uso colectivo y de acceso colaborativo, en donde vos podes agregar/comentar/sugerir, algo así como una wikipedia de lugares ecológicos.
+Pensado como herramienta de uso colectivo y de acceso colaborativo, en donde vos podes agregar/comentar/sugerir. Algo así como una wikipedia de lugares ecológicos.
 
 ## ¿Cómo?
 Internamente es simplemente una google-spreadsheet. Podes ver una de las planillas haciendo click [acá](https://docs.google.com/spreadsheets/d/1LRbVgNC9orUgdJ587uNV2ar5k47THzrpYn6-MB00ah8/edit#gid=0), por ejemplo. 
