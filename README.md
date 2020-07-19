@@ -9,9 +9,9 @@ Internamente es simplemente una google-spreadsheet. Podes ver una de las planill
 
 ### Ejemplos de uso
 
-- Quiero agregar este lugar para reciclar plastico: solicitá permiso para modificar, luego simplemente agrega en una nueva fila sus datos correspondientes (Título, descripción, link y categoría).
+- __Quiero agregar este lugar para reciclar plastico__: Solicitá permiso para modificar, luego simplemente agrega en una nueva fila sus datos correspondientes (Título, descripción, link y categoría).
 
-- Quiero eliminar esta tienda porque ya no existe: Deja un comentario en su respectiva celda y lo borraremos a la brevedad :)
+- __Quiero eliminar esta tienda porque ya no existe__: Deja un comentario en su respectiva celda y lo borraremos a la brevedad :)
 
 ## ¿Por qué?
 
