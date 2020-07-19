@@ -1,5 +1,3 @@
-const publicSpreadsheetUrl =
-      "https://docs.google.com/spreadsheets/d/10eFXbu9VaX5r3fGEb95qD82-N9PGUfAmX50Va0sf4O8/edit?usp=sharing";
 const categoryStartNum = 3; // let the program know where the categoy begins on the spreadsheet column. Default value is 3.
 const sheetName = "Sheet1"; // this has to match your google doc sheet name
 const punctuation = ","; // this changes the punctuation between the title and the description. In most cases you'd want to use "," or "-" or ":"
