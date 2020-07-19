@@ -5,13 +5,13 @@ Sitio creado para interesades en saber sobre prácticas más mundo-amigables, in
 Pensado como herramienta de uso colectivo y de acceso colaborativo, en donde vos podes agregar/comentar/sugerir. Algo así como una wikipedia de lugares ecológicos.
 
 ## ¿Cómo?
-Internamente es simplemente una google-spreadsheet. Podes ver una de las planillas haciendo click [acá](https://docs.google.com/spreadsheets/d/1LRbVgNC9orUgdJ587uNV2ar5k47THzrpYn6-MB00ah8/edit#gid=0), por ejemplo. 
+Internamente es simplemente una google-spreadsheet. Podés ver una de las planillas haciendo click [acá](https://docs.google.com/spreadsheets/d/1LRbVgNC9orUgdJ587uNV2ar5k47THzrpYn6-MB00ah8/edit#gid=0), por ejemplo. 
 
 ### Ejemplos de uso
 
-- __Quiero agregar este lugar para reciclar plastico:__ Solicitá permiso para modificar, luego simplemente agrega en una nueva fila sus datos correspondientes (Título, descripción, link y categoría).
+- __Quiero agregar este lugar para reciclar plastico:__ Solicitá permiso para modificar, luego simplemente agregá en una nueva fila sus datos correspondientes (Título, descripción, link y categoría).
 
-- __Quiero eliminar esta tienda porque ya no existe:__ Deja un comentario en su respectiva celda y lo borraremos a la brevedad :)
+- __Quiero eliminar esta tienda porque ya no existe:__ Dejá un comentario en su respectiva celda y lo borraremos a la brevedad :)
 
 ## ¿Por qué?
 
@@ -24,8 +24,9 @@ Creemos que es necesario:
 ## IMPORTANTE
 El sitio puede contener información falsa o imprecisa, utilicelo bajo su propio riesgo.
 
+---
 
-# Listados a chequear o actializar
+# Listados a chequear o actualizar
 
 ## Otros listados similares
 - [Listado de Marcas y Referentes Sostenibles en Argentina](https://github.com/ecologismo-argentina/ecologismo-argentina.github.io/blob/master/Listado%20de%20Marcas%20y%20Referentes%20Sostenibles%20en%20Argentina.pdf)
