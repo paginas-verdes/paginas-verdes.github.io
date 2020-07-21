@@ -43,7 +43,7 @@ function showInfo(data, tabletop) {
 }
 
 function addButton(columnName) {
-  const newButton = document.createElement("BUTTON");
+  const newButton = document.createElement("a");
   const newButtonContent = document.createTextNode(columnName);
 
   newButton.appendChild(newButtonContent);
@@ -81,12 +81,12 @@ function addElement(columnName, person, url, description) {
     link.title = person;
     link.href = url;
     link.target="_blank";
-    link.className = "itemLink";
+    link.className = "stretched-link";
 
     let para = document.createElement("p");
     let paraContent = document.createTextNode(`${punctuation} ${description}`);
     para.appendChild(paraContent);
-    para.className = "itemPara";
+    para.className = "card-text";
 
     para.appendChild(link); // put <a> into <p>
     link.after(paraContent); // put <p> description after <a>
