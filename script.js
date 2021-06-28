@@ -9,8 +9,8 @@ function init() {
 }
 
 function loadSheet(data, tabletop) {
-  var data_processed = data.map( x => [x["Título"], x["Link"], x["Descripción"], x["Provincia"], x["Categorías"], x["Localidad"]] )
-
+  var data_processed = data.map( x => ['<a href="'+ x["Link"] +'" target="blank">'+ x["Título"] + '</a>', x["Descripción"], x["Provincia"], x["Categorías"], x["Localidad"]] )
+  console.log(data_processed);
   var table = $('#example').DataTable({
       "bPaginate": false,
       "bLengthChange": false,
@@ -21,13 +21,16 @@ function loadSheet(data, tabletop) {
       "data" : data_processed,
       "column": [
       { "data" : "Titulo" },
-      { "data" : "Link" },
       { "data" : "Descripción" },
       { "data" : "Provincia" },
       { "data" : "Categorías" },      
       { "data" : "Localidad" },      
       ],
       "columnDefs": [
+          {
+              "targets": [2],
+              "visible": false
+          },
           {
               "targets": [3],
               "visible": false
@@ -36,15 +39,11 @@ function loadSheet(data, tabletop) {
               "targets": [4],
               "visible": false
           },
-          {
-              "targets": [5],
-              "visible": false
-          },
       ],
    });
 
 
-  var indices = [3,4]
+  var indices = [2,3]
   $("#search b").each( function ( i ) {
       i = indices[i];
 
