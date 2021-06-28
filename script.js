@@ -1,4 +1,6 @@
 
+console.log("Hi! If you want to check this project's code you can find it here: https://github.com/ecologismo-argentina")
+
 var publicSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1QQKTVEIHFY1OTlYWXgCE2Nw1JrcnKOLARkGtGAPoF5o/edit?usp=sharing';
 var sheet_data;
 
@@ -10,7 +12,6 @@ function init() {
 
 function loadSheet(data, tabletop) {
   var data_processed = data.map( x => ['<a href="'+ x["Link"] +'" target="blank">'+ x["Título"] + '</a>', x["Descripción"], x["Provincia"], x["Categorías"], x["Localidad"]] )
-  console.log(data_processed);
   var table = $('#example').DataTable({
       "bPaginate": false,
       "bLengthChange": false,
