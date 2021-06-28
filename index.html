@@ -5,10 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
-    <link rel="manifest" href="/site.webmanifest">
 
-    <meta property="og:title" content="Ecologismo Argentina">
-    <title>Ecologismo Argentina</title>
+    <meta property="og:title" content="Páginas Verdes">
+    <title>Páginas Verdes</title>
     <meta property="og:description" content="Listado de locales, productos y recursos ecológicos en Argentina.">
     <meta name="description" content="Listado de locales, productos y recursos ecológicos en Argentina.">
 
@@ -20,51 +19,57 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />    
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <link type="text/css" rel="stylesheet" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css" /> 
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js'></script>
+
+
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <!-- import tabletop.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js"></script>
     <link rel="stylesheet" href="./styles/style.css" />
 
-    <script>
-      const publicSpreadsheetUrl = "https://docs.google.com/spreadsheets/d/1LRbVgNC9orUgdJ587uNV2ar5k47THzrpYn6-MB00ah8/edit?usp=sharing";
-    </script>
-
-    <script src="script.js"></script>
     <link
       href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap"
       rel="stylesheet"
     />
-  </head>
+</head>
 
-  <body>
-    <main role="main">
+<body>
+    <section class="text-center">
+      <h3>🌳 Páginas Verdes 🌳</h3>
+      Listado de locales, productos y recursos ecológicos en Argentina
+    </section>
+    <br>
+    <div id="search">
+        Filtrar por <b>Provincia</b> y <b>Categorias</b>    
+    </div>
 
-      <section class="jumbotron text-center">
-        <div class="container">
-          <h2 class="jumbotron-heading">Ecologismo Argentina</h2>
-          <p class="jumbotron-heading">Listado de locales, productos y recursos ecológicos en Argentina.</p>
-          <p id="myBtnContainer">
-        </div>
-      </section>
-    </main>
+    <table id="example" class="table" style="width:100%">
+        <thead>
+            <tr>
+                <th  scope="col">Título</th>
+                <th  scope="col">Link</th>
+                <th  scope="col">Descripción</th>
+                <th  scope="col">Provincia</th>
+                <th  scope="col">Categorías</th>
+                <th  scope="col">Localidad</th>
+            </tr>
+        </thead>
+    </table>
 
     <footer class="text-muted">
       <div class="container">
-        <p class="float-right">
-          <a href="#">Volver arriba</a>
-        </p>
-        <a href="/about">Quiero saber mas de este proyecto 🌈 </a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZxXCIJe_nVwtWueVyW-Ei3jdj2lRjjJBnZmSQq1Eq1TT0Ow/viewform?usp=sf_link" target="blank">Contribuí al listado</a> o <a href="/arbol.html">jugá con un 🌳</a>
         <br/>
-        <a href="/arbol">Quiero jugar con un 🌳  </a>
         <br/>
-        <a href="https://github.com/ecologismo-argentina" target="_blank">
-         </span> Encontranos en <span class="fab fa-github" aria-hidden="true"></span>
-        </a>
+        Desarrollado por <a href="https://mathigatti.com/" target="blank">Mathias Gatti</a> y <a href="https://solquemal.com" target="blank">Sol Sarratea</a> 🌈 
       </div>
     </footer>
 
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script type='text/javascript' src="/script.js"></script>
+
 </body>
 </html>
